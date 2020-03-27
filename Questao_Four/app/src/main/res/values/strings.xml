@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Questão Four</string>
+    <string name="search_title">Pesquisar itens</string>
+    <string name="search_hint">Pesquisar itens</string>
+</resources>
